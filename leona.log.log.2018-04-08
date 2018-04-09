@@ -1,0 +1,124 @@
+[INFO ] 2018-04-08 15:12:06,070 method:ind.leona.utils.CommUtils.ports(CommUtils.java:83)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 15:12:24,062 method:ind.leona.utils.CommUtils.ports(CommUtils.java:83)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 15:12:57,954 method:ind.leona.progress.Sd.deal(Sd.java:49)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 15:13:01,591 method:ind.leona.progress.Sd.deal(Sd.java:74)
+BEGIN
+[INFO ] 2018-04-08 15:13:01,622 method:ind.leona.progress.Sd.deal(Sd.java:80)
+SEND:6D640600000106101D
+[INFO ] 2018-04-08 15:13:02,560 method:ind.leona.progress.Sd.deal(Sd.java:84)
+RECV:6D64060000AC0106B9
+[INFO ] 2018-04-08 15:13:02,568 method:ind.leona.progress.Sd.deal(Sd.java:94)
+SEND:6D640600000105101C
+[INFO ] 2018-04-08 15:13:02,583 method:ind.leona.progress.Sd.deal(Sd.java:104)
+RECV:6D64070000AC010500B9
+[INFO ] 2018-04-08 15:13:02,583 method:ind.leona.progress.Sd.deal(Sd.java:113)
+SEND:6D640600000106111E
+[INFO ] 2018-04-08 15:13:02,646 method:ind.leona.progress.Sd.deal(Sd.java:139)
+END.
+[INFO ] 2018-04-08 15:19:49,322 method:ind.leona.progress.Vedio.play(Vedio.java:75)
+Format: MJPG
+[INFO ] 2018-04-08 15:19:52,311 method:ind.leona.progress.Vedio.play(Vedio.java:95)
+FINISHED
+[INFO ] 2018-04-08 18:26:46,903 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:27:01,197 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:27:03,486 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:125)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:27:03,565 method:ind.leona.progress.Licence.deal(Licence.java:112)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:28:21,328 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:28:22,664 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:125)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:28:22,729 method:ind.leona.progress.Licence.deal(Licence.java:112)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:29:00,650 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:29:02,246 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:125)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:29:02,315 method:ind.leona.progress.Licence.deal(Licence.java:112)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:31:37,448 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:31:54,571 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:125)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:31:54,745 method:ind.leona.progress.Licence.deal(Licence.java:112)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:33:59,474 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:34:01,807 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:125)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:34:01,878 method:ind.leona.progress.Licence.deal(Licence.java:112)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:36:52,769 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:36:54,539 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:125)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:36:54,606 method:ind.leona.progress.Licence.deal(Licence.java:112)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:36:56,931 method:ind.leona.progress.Licence.deal(Licence.java:135)
+4C6963656E63650D
+[INFO ] 2018-04-08 18:36:57,387 method:ind.leona.progress.Licence.deal(Licence.java:147)
+Done
+[INFO ] 2018-04-08 18:36:57,433 method:ind.leona.progress.Licence.deal(Licence.java:156)
+SUCC
+[INFO ] 2018-04-08 18:38:42,817 method:ind.leona.utils.CommUtils.ports(CommUtils.java:100)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:38:44,402 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:125)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:38:44,469 method:ind.leona.progress.Licence.deal(Licence.java:112)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:46:22,217 method:ind.leona.utils.CommUtils.ports(CommUtils.java:113)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:46:29,201 method:ind.leona.utils.CommUtils.ports(CommUtils.java:113)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:46:40,731 method:ind.leona.utils.CommUtils.ports(CommUtils.java:113)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:46:42,269 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:138)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:46:42,340 method:ind.leona.progress.Licence.deal(Licence.java:113)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:47:52,922 method:ind.leona.utils.CommUtils.ports(CommUtils.java:113)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:47:59,808 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:138)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:47:59,871 method:ind.leona.progress.Licence.deal(Licence.java:113)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:49:04,187 method:ind.leona.utils.CommUtils.ports(CommUtils.java:115)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:49:17,127 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:140)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:49:17,288 method:ind.leona.progress.Licence.deal(Licence.java:113)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:52:21,952 method:ind.leona.utils.CommUtils.ports(CommUtils.java:115)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:52:44,780 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:140)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:52:44,948 method:ind.leona.progress.Licence.deal(Licence.java:113)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:52:47,185 method:ind.leona.progress.Licence.deal(Licence.java:141)
+4C6963656E63650D
+[INFO ] 2018-04-08 18:52:47,650 method:ind.leona.progress.Licence.deal(Licence.java:153)
+Done
+[INFO ] 2018-04-08 18:52:47,697 method:ind.leona.progress.Licence.deal(Licence.java:162)
+SUCC
+[INFO ] 2018-04-08 18:56:58,438 method:ind.leona.utils.CommUtils.ports(CommUtils.java:114)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:57:00,717 method:ind.leona.utils.CommUtils.ports(CommUtils.java:114)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:57:27,407 method:ind.leona.utils.CommUtils.ports(CommUtils.java:114)
+Find Out 1 Serial Port
+[INFO ] 2018-04-08 18:57:30,603 method:ind.leona.utils.CommUtils.isFileExists(CommUtils.java:139)
+Licence File: C:\Users\juliana\0001\eclipse\jee-photon\workspace\leona\licence\0000007E56506F92-AES.bin
+[INFO ] 2018-04-08 18:57:30,667 method:ind.leona.progress.Licence.deal(Licence.java:113)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-08 18:57:36,289 method:ind.leona.progress.Licence.deal(Licence.java:141)
+4C6963656E63650D
+[INFO ] 2018-04-08 18:57:36,772 method:ind.leona.progress.Licence.deal(Licence.java:153)
+Done
+[INFO ] 2018-04-08 18:57:36,816 method:ind.leona.progress.Licence.deal(Licence.java:162)
+SUCC

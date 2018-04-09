@@ -1,0 +1,12 @@
+[INFO ] 2018-04-04 17:19:41,427 method:ind.leona.utils.CommUtils.ports(CommUtils.java:83)
+Find Out 1 Serial Port
+[INFO ] 2018-04-04 17:19:45,162 method:ind.leona.progress.Sd.deal(Sd.java:49)
+SERIAL BaudRate:115200
+[INFO ] 2018-04-04 17:19:54,990 method:ind.leona.progress.Sd.deal(Sd.java:74)
+BEGIN
+[INFO ] 2018-04-04 17:20:11,109 method:ind.leona.utils.CommUtils.ports(CommUtils.java:83)
+Find Out 0 Serial Port
+[INFO ] 2018-04-04 17:21:12,099 method:ind.leona.utils.CommUtils.ports(CommUtils.java:83)
+Find Out 1 Serial Port
+[INFO ] 2018-04-04 17:21:17,181 method:ind.leona.progress.Sd.deal(Sd.java:49)
+SERIAL BaudRate:115200

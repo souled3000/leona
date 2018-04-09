@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=C:\Users\juliana\Downloads\rxtx-2.2pre2-bins\rxtx-2.2pre2-bins\RXTXcomm.jar -DgroupId=org.rxtx -DartifactId=rxtx -Dversion=2.2pre2 -Dpackaging=jar
